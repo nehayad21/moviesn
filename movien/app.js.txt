@@ -1,4 +1,6 @@
 class student{
 
     public (a,b);
+    // new adding 
+   public (c,d,e);
 }
